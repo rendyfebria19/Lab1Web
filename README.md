@@ -64,4 +64,3 @@ penjelasan dari setiap langkah praktikum
 
 14. Hyperlink berhasil ditambahkan pada bagian atas
 ![14](https://user-images.githubusercontent.com/59887134/112640283-c4426180-8e73-11eb-9588-c38dd595633d.png)
-

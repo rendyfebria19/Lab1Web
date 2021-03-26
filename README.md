@@ -10,11 +10,8 @@ Jawab Pertanyaan Berikut
 -  Apa perbedaan dari tag <p.> dengan tag <br.>, berikan penjelasannya!
    >JAWAB : <P.> Adalah kode untuk menambahkan kalimat pada HTML, <br.> adalah kode untuk mengatur jarak pada kalimat
 -  Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
-   >JAWAB : Title image ini digunakan untuk memberikan judul untuk gambar Anda. alt kode Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga     sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak. 
--  Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan   penjelasannya!
-   >JAWAB :
-
-
+   >JAWAB : Title image ini digunakan untuk memberikan judul untuk gambar Anda. alt kode Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga     sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak.
+-  
 1. Menjalankan HTML di SUBLINE
 ![0](https://user-images.githubusercontent.com/59887134/112636752-15e8ed00-8e70-11eb-9c8e-45f830b21aed.png)
 

@@ -11,7 +11,18 @@ Jawab Pertanyaan Berikut
    >JAWAB : <P.> Adalah kode untuk menambahkan kalimat pada HTML, <br.> adalah kode untuk mengatur jarak pada kalimat
 -  Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
    >JAWAB : Title image ini digunakan untuk memberikan judul untuk gambar Anda. alt kode Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga     sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak.
--  
+-  Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+   proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+   >JAWAB : Untuk Mendapatkan gambar yang proporsional maka digunakan atribut Width saja karna tinggi akan mengikuti lebarnya
+-  Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+   _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+   >JAWAB : - _blank Browser akan menampilkan atau akan memuat dokumen yang dilink kedalam jendela               yang baru.
+            - _self browser akan menampilkan atau akan memuat dokumen yang dilink kejendela atau                 keframe yang sama dimana dokumen yang ada ditampilkan atau dimuat.
+            - _top Browser akan menampilkan atau akan memuat dokumen yang dilink kedalam jendela                 yang baru dan fullscreen atau tampilan jendela penuh.
+            - _parent Browser akan menampilkan atau akan memuat dokumen yang dilink ke parent                     frame, yaitu bila link berada pada child frame maka dokumen yang dilink akan                       ditampilkan di parent frame
+
+
+penjelasan dari setiap langkah praktikum
 1. Menjalankan HTML di SUBLINE
 ![0](https://user-images.githubusercontent.com/59887134/112636752-15e8ed00-8e70-11eb-9c8e-45f830b21aed.png)
 
